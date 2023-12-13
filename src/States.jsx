@@ -2,8 +2,8 @@ import React, { useState } from 'react'
 import axiosInstance from './helper/axiosInstance'
 
 const States = () => {
-    let[name, setName]=useState()
-    let[password, setPassword]=useState()
+    let[name, setName]=useState("")
+    let[password, setPassword]=useState("")
 
     let submit=(c)=>{
         c.preventDefault()
