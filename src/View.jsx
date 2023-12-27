@@ -11,9 +11,10 @@ const View = () => {
             let {data}=await axiosInstance.get('/posts')
             setUserData(data)
         }
-        fetchData();
+        fetchDate();
 
     },[])
+
   return (
     <div>
         {userData.map((x)=>{

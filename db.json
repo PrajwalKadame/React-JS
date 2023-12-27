@@ -1,0 +1,42 @@
+{
+  "posts": [
+    {
+      "name": "RAJUuuiuiuiiuiui",
+      "password": "Hajhjsdh878888",
+      "id": 1
+    },
+    {
+      "name": "GOVINDU",
+      "password": "RAJU",
+      "id": 2
+    },
+    {
+      "name": "Praju",
+      "password": "hem",
+      "id": 3
+    },
+    {
+      "name": "hemanth",
+      "password": "kumar",
+      "id": 4
+    },
+    {
+      "name": "heman7890",
+      "password": "7787888888",
+      "id": 5
+    },
+    {
+      "name": "hhjhjshjjhs",
+      "password": "8898989899",
+      "id": 6
+    },
+    {
+      "Role": "Developer",
+      "id": 7
+    },
+    {
+      "Role": "Developer",
+      "id": 8
+    }
+  ]
+}
