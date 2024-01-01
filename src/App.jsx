@@ -30,32 +30,32 @@
 
 // ======================HOC========================
 
-// import React from 'react'
-// import States from './States'
-// // import Hoc from './Hoc'
-
-// // const App = (props) =>
-// const App = () =>
-//  {
-//   return (
-//     // <div>{props.data}</div>
-//     <States/>
-//   )
-// }
-
-// // export default Hoc(App)
-// export default App
-
-
 import React from 'react'
-import Mulstates from './Mulstates'
+import States from './States'
+// import Hoc from './Hoc'
 
-const App = () => {
+// const App = (props) =>
+const App = () =>
+ {
   return (
-    <div>
-      <Mulstates/>
-    </div>
+    // <div>{props.data}</div>
+    <States/>
   )
 }
 
+// export default Hoc(App)
 export default App
+
+
+// import React from 'react'
+// import Mulstates from './Mulstates'
+
+// const App = () => {
+//   return (
+//     <div>
+//       <Mulstates/>
+//     </div>
+//   )
+// }
+
+// export default App
